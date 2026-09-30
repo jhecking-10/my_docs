@@ -40,14 +40,14 @@
 
 	- `git pull origin main` essentially uses the fetch and merge commands at the same time
 
-## Update 9/30/26
+### Update 9/30/26
 
 Best practice is to create projects on GitHub *first*:
 
-    - initialize repo on GitHub
+1. initialize repo on GitHub
 
-    - clone with `git clone <url>`
+2. clone with `git clone <url>`
 
-    - set upstream with `git push -u origin main`
+3. set upstream with `git push -u origin main`
 
-    - simply use `git push` and `git pull` going forward
+4. simply use `git push` and `git pull` going forward
